@@ -6,7 +6,7 @@
  *@n: the variable pointer at n
  */
 
-void reset_to_98(int *9)
+void reset_to_98(int *n)
 {
 *n = 98;
 }
