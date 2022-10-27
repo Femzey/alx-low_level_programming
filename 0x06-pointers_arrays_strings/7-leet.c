@@ -20,5 +20,5 @@ if (s[i] == subs[j])
 s[i] = le[j / 2];
 }
 }
-eturn (s);
+return (s);
 }
