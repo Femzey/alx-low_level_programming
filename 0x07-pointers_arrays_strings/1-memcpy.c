@@ -7,7 +7,7 @@
  *@n: bytes of the memory
  *Return: dest
  */
-
+l
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
 unsigned int i;
